@@ -32,6 +32,6 @@ h6 {
   display: none;
 }
 
-.toc {
-  min-height: fit-content;
+.toc:has(.toc-header.collapsed) {
+  min-height: 3rem;
 }
