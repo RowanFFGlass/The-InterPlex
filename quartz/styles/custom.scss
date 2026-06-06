@@ -32,7 +32,12 @@ h6 {
   display: none;
 }
 
-.right.sidebar .toc {
-  max-height: 80vh;
-  overflow-y: auto;
+.right.sidebar {
+  display: flex;
+  flex-direction: column;
+}
+
+.toc {
+  flex: 1;
+  min-height: 0;
 }
