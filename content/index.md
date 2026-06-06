@@ -13,7 +13,7 @@ tags:
 # The InterPlex Strategy Guide: June–December 2026
 #### Version 1: June 6, 2026
 
-This document provides a comprehensive overview of various possibilities for organizational strategy for the remainder of 2026. Included here are proposals for content production timelines, checklist templates for existing as well as newly proposed publication formats, recommendations for improving our internal organization and workflow, best practices reference sheets, and more. The intention of this document is to provisionally outline, in one place, some of the major directions in which we may aim to take The InterPlex over the next six months.
+This document outlines a comprehensive organizational strategy for the remainder of 2026. Included here are proposals for content production timelines, checklist templates for existing as well as newly proposed publication formats, recommendations for improving our internal organization and workflow, best practices reference sheets, and more. The intention of this document is to provisionally outline, in one place, some of the major directions in which we may aim to take The InterPlex over the next six months.
 
 This document is organized as an index of specific pages grouped under four overarching categories: 1) **Editorial**; 2) **Content**; 3) **Workflow**; and 4) **Institutional**. 
 
