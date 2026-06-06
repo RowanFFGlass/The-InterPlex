@@ -13,7 +13,7 @@ tags:
 # The InterPlex Strategy Guide: June–December 2026
 #### Version 1: June 6, 2026
 
-This document outlines a comprehensive organizational strategy for The InterPlex for June–December 2026. It is intended to provisionally develop shared and mutually agreeable editorial directions, content plans, workflow procedures, and organizational standards that will facilitate our work moving forward, at least for the remainder of the year. Consider everything outlined in this document provisional and subject to revision. I welcome questions, comments, and suggestions in response to any of the plans and proposals developed here.
+This document outlines a comprehensive organizational strategy for The InterPlex for June–December 2026. It is intended to provisionally survey shared editorial directions, content plans, workflow procedures, and organizational standards that will guide and facilitate our work for at least the remainder of this year. Consider everything outlined in this document provisional and subject to revision. I welcome questions, comments, and suggestions in response to the content presented here.
 
 This document is organized as an index of specific pages grouped under four overarching categories: 1) **Editorial**; 2) **Content**; 3) **Workflow**; and 4) **Institutional**. Each page is indexed in alphabetical order under each category header. I have also included internal links to other relevant pages to facilitate navigation throughout the document.
 
