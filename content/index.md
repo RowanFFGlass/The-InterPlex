@@ -1,4 +1,4 @@
-title: 00 Index
+title: Index
 ---
 aliases:
   - InterPlex content strategy
