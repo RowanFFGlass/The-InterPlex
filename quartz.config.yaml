@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Inter
+      body: Inter
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -44,10 +44,10 @@ plugins:
   - source:
       name: quartz-themes
       repo: "https://github.com/saberzero1/quartz-themes.git"
-      subdir: plugin
+      subdir: obsidian
     enabled: true
     options:
-      theme: "tokyo-night"
+      theme: "minimal"
       mode: both
   - source: github:quartz-community/created-modified-date
     enabled: true
