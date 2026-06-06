@@ -13,9 +13,9 @@ tags:
 # The InterPlex Strategy Guide: June–December 2026
 #### Version 1: June 6, 2026
 
-This document outlines a comprehensive organizational strategy for the remainder of 2026. Included here are proposals for content production timelines, checklist templates for existing as well as newly proposed publication formats, recommendations for improving our internal organization and workflow, best practices reference sheets, and more. The intention of this document is to provisionally outline, in one place, some of the major directions in which we may aim to take The InterPlex over the next six months.
+This document outlines a comprehensive organizational strategy for The InterPlex for June–December 2026. It is intended to provisionally develop shared and mutually agreeable editorial directions, content plans, workflow procedures, and organizational standards that will facilitate our work moving forward, at least for the remainder of the year. Consider everything outlined in this document provisional and subject to revision. I welcome questions, comments, and suggestions in response to any of the plans and proposals developed here.
 
-This document is organized as an index of specific pages grouped under four overarching categories: 1) **Editorial**; 2) **Content**; 3) **Workflow**; and 4) **Institutional**. 
+This document is organized as an index of specific pages grouped under four overarching categories: 1) **Editorial**; 2) **Content**; 3) **Workflow**; and 4) **Institutional**. Each page is indexed in alphabetical order under each category header. I have also included internal links to other relevant pages to facilitate navigation throughout the document.
 
 1. **Editorial** contains recommendations concerning AI use guidelines, contributor guidelines and expectations, and a few specific editorial recommendations intended to improve the stylistic consistency of the InterPlex website.
    
@@ -24,10 +24,6 @@ This document is organized as an index of specific pages grouped under four over
 3. **Workflow** contains reference sheets of best practices for audiovisual recordings, file naming practices, and file organization practices, as well as suggested database templates for keeping track of recruitment efforts and existing contributors. Also included are templates for contributor recruitment, alternatives to Riverside as a dual-track recording platform and automatic transcription software, and, most significantly, a proposal to onboard to Asana as a task management program by which to improve our workflow and coordination.
    
 4. **Institutional** includes a database template for keeping track of funding opportunities, a similar database for keeping track of other institutional collaboration opportunities, and a list of templates for outreach to potential partnering institutions of several types.
-
-Each page is indexed in alphabetical order under each category header. I have also included internal links to other relevant pages to facilitate navigation throughout the document.
-
-Consider everything outlined in this document provisional and subject to revision. I welcome questions, comments, and suggestions in response to any of the plans and proposals developed here. My intention is for us to collaboratively develop shared and mutually agreeable editorial directions, content plans, workflow procedures, and organizational standards that will facilitate our work moving forward, for at least the remainder of 2026.
 
 ---
 # 1. Editorial
