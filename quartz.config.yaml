@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: The InterPlex
-  pageTitleSuffix: ""
+  pageTitle: The InterPlex Strategy Guide
+  pageTitleSuffix: "Version 1: June 6, 2026"
   enableSPA: true
   enablePopovers: true
   analytics:
