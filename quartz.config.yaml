@@ -1,7 +1,8 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+title: The InterPlex Strategy Guide
 configuration:
   pageTitle: The InterPlex Strategy Guide
-  pageTitleSuffix: "Version 1: June 6, 2026"
+  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -187,7 +188,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: github:quartz-community/content-meta
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
