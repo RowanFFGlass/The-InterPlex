@@ -31,3 +31,8 @@ h6 {
 .note-properties {
   display: none;
 }
+
+.toc {
+  max-height: 80vh;
+  overflow-y: auto;
+}
