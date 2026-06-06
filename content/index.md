@@ -1,5 +1,5 @@
-title: Index
 ---
+title: Index
 aliases:
   - InterPlex content strategy
   - Content strategy
