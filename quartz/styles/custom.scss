@@ -41,3 +41,11 @@ h6 {
   flex: 1;
   min-height: 0;
 }
+
+.toc .toc-content {
+  display: none;
+}
+
+.toc .toc-header:not(.collapsed) + .toc-content {
+  display: block;
+}
