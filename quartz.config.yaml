@@ -42,6 +42,19 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  - source: github:quartz-community/comments
+    enabled: true
+    options:
+      provider: giscus
+      options:
+        repo: RowanFFGlass/The-InterPlex
+        repoId: R_kgDOSy7qbA
+        category: Announcements
+        categoryId: DIC_kwDOSy7qbM4C-o9g
+        lang: en
+    layout:
+      position: afterBody
+      priority: 10
   - source:
       name: quartz-themes
       repo: "https://github.com/saberzero1/quartz-themes.git"
