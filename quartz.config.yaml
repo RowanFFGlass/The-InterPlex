@@ -49,8 +49,8 @@ plugins:
       options:
         repo: RowanFFGlass/The-InterPlex
         repoId: R_kgDOSy7qbA
-        category: Announcements
-        categoryId: DIC_kwDOSy7qbM4C-o9g
+        category: General
+        categoryId: DIC_kwDOSy7qbM4C-o9h
         lang: en
     layout:
       position: afterBody
